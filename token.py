@@ -1,0 +1,4 @@
+consumerkey = 'I4j2AwEWlLUx0lS7Wz21R5lxu'
+consumersecret = 'qGfeNYAqckN1lhqr2TK9hod3Wfvrv7G0X4wr2v4ruxa4buydPb'
+accesstoken = '110312853-bG7v6bx71t0qJgQIwr932cjUzRkM1HOHMI8AmBCF'
+accesstokensecret = 'cJcBS4OcEOqRldKT74Rve3ZQyr4cuHjNi8mYcj3i0Lmoc'
